@@ -1,6 +1,8 @@
 ## Hi there 👋
-I'm eam2539,a student from China.
+I'm eam2539
+
 ![Profile Views](https://komarev.com/ghpvc/?username=eam2539&color=blue) 
+
 ## 🔥 GitHub Stats  
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eam2539&show_icons=true&theme=tokyonight&count_private=true" /> 
